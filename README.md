@@ -1,9 +1,11 @@
 <h1 align="center">Olá 👋, Meu nome é Rosangela</h1>
-<h3 align="center">Atualmente sou Estudante de Engenharia de Dados</h3>
+<h3 align="center"> Tenho formação em Análise de Sistemas  e Engenharia de Dados</h3>
 
-- 🔭 Atualmente estou empenhada no **Bootcamp_Soulcode_Academy **
+- 🔭 Recentemente terminei o **Bootcamp_Soulcode_Academy **
 
-- 🌱 Tenho buscado conhecimentos em **Html, Css, Python, Google Cloud, LGPD, Banco de Dados.**
+- 🌱 No momento tenho busco aprofundar meus conhecimentos em  ** Python, Google Cloud.**
+
+- Também tenho conhecimentos em Html, Css, LGPD, Banco de dados, modelagem de dados, Trello.
 
 - 📫 Como me encontrar? Mande um e-mail... **rosa.bele.fg@gmail.com**
 
