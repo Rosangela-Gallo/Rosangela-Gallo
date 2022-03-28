@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Meu nome é Rosangela</h1>
-<h3 align="center"> Tenho formação em Análise de Sistemas  e Engenharia de Dados</h3>
+<h3 align="center"> Análista de Sistemas  e Engenheira de Dados com extensão em Analytics</h3>
 
 - 🔭 Recentemente terminei o **Bootcamp_Soulcode_Academy + extensão em Analytics.**
 
