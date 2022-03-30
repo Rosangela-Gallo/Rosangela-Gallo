@@ -3,9 +3,10 @@
 
 - 🔭 Recentemente terminei o **Bootcamp_Soulcode_Academy + extensão em Analytics.**
 
-- 🌱 No momento tenho busco aprofundar meus conhecimentos em  ** Python, Google Cloud.**
+- 🌱 No momento estou aprofundando conhecimentos em  ** Power BI.**
 
-- Também tenho conhecimentos em Html, Css, LGPD, Banco de dados, modelagem de dados, Trello.
+- Também tenho conhecimentos em Html, Css, LGPD, Banco de dados, modelagem de dados, Python,
+  Google Cloud, Trello (para gestão de tarefas).
 
 - 📫 Como me encontrar? Mande um e-mail... **rosa.bele.fg@gmail.com**
 
@@ -26,15 +27,7 @@
 
 <!--
 **Rosangela-Gallo/Rosangela-Gallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning
