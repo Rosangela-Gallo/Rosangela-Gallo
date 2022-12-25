@@ -1,12 +1,9 @@
 <h1 align="center">Olá 👋, Meu nome é Rosangela</h1>
-<h3 align="center"> Análista de Sistemas  e Engenheira de Dados com extensão em Analytics</h3>
+<h3 align="center"> Análista de Sistemas - ** Engenheira de Dados com extensão em Analytics**</h3>
 
-- 🔭 Recentemente terminei o **Bootcamp_Soulcode_Academy + extensão em Analytics.**
-
-- 🌱 No momento estou aprofundando conhecimentos em  ** Power BI.**
-
-- Também tenho conhecimentos em Html, Css, LGPD, Banco de dados, modelagem de dados, Python,
-  Google Cloud, Trello (para gestão de tarefas).
+- Conhecimentos em Html5, CSS, LGPD, Banco de dados, modelagem de dados, Python,
+  Google Cloud, 
+  Gosto de usar o Trello para gestão de tarefas.
 
 - 📫 Como me encontrar?   Mande um e-mail...   **rosa.bele.fg@gmail.com**
 <h3 align="left">Connect with me:</h3>
