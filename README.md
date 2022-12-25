@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, Meu nome é Rosangela</h1>
-<h3 align="center"> Análista de Sistemas - ** Engenheira de Dados com extensão em Analytics**</h3>
+<h3 align="center"> Análista de Sistemas - **Engenheira de Dados com extensão em Analytics** </h3>
 
 - Conhecimentos em Html5, CSS, LGPD, Banco de dados, modelagem de dados, Python,
-  Google Cloud, 
+  Google Cloud 
   Gosto de usar o Trello para gestão de tarefas.
 
 - 📫 Como me encontrar?   Mande um e-mail...   **rosa.bele.fg@gmail.com**
