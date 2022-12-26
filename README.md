@@ -3,7 +3,8 @@
 
 - Conhecimentos em Html5, CSS, LGPD, Banco de dados, modelagem de dados, Python,
   Google Cloud 
-  Gosto de usar o Trello para gestão de tarefas.
+  
+- Gosto de usar o Trello para gestão de tarefas.
 
 - 📫 Como me encontrar?   Mande um e-mail...   **rosa.bele.fg@gmail.com**
 <h3 align="left">Connect with me:</h3>
